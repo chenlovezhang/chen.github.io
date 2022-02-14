@@ -15,7 +15,7 @@ $("#open").click(function () {
 		new Typed('.letter', {
 			strings: [
 				"^1000Dear&nbsp;&nbsp;zhangting" + content.to,
-				content.recipient + "我最爱的臭宝<br>今天是2022年2月14日，这是今年跟你在一起的第一个情人节，虽然你不在我身边，但很开心我们能够出现在彼此的生活，成为彼此重要的人。<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;提起笔，准备叙述我们故事的开始，却总是忍不住走神，真抱歉，情话没写出几个，但我却真真实实想了你一整天。说实话，最初喜欢你是见色起意，但追你并非心血来潮，始于心动，陷于温柔。<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;余生的路还很长，请多多指教。&nbsp;&nbsp;&nbsp;今晚夜色真美呀！" +
+				content.recipient + "我最爱的臭宝<br>今天是2022年2月14日，这是今年跟你在一起的第一个情人节，虽然你不在我身边，但很开心我们能够出现在彼此的生活，成为彼此重要的人。<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;提起笔，准备叙述我们故事的开始，却总是忍不住走神，真抱歉，情话没写出几个，但我却真真实实想了你一整天。说实话，最初喜欢你是见色起意，但追你并非心血来潮，始于心动，陷于温柔。<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;余生的路还很长，请多多指教。&nbsp;&nbsp;&nbsp;今晚月色真美呀！" +
 				content.text + "<br><br><p style='float:right; display:block; width:" + 
 				content.sign + "px;'>^1000" +
 				content.from + "^250より</p>"
